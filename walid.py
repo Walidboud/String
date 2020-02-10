@@ -1,0 +1,6 @@
+a=input("whats your name ! ")
+b=input("whats your age !")
+print(f'Your name is {a}. and your age is {b}')
+print('your first char in your name is : ',a[0])
+print("your last char in your name : ",a[-1])
+print('Your name inverse is : ',a[::-1])
